@@ -1,5 +1,5 @@
 # telegram-fk-lang
-the telegram language pack we all need
+the telegram language pack you didn't know you needed
 
 # installation
 ## ios (languages\_ios_fk.strings)
