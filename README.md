@@ -21,7 +21,7 @@ the telegram language pack we all need
 6. choose "Fuck" from the list
 
 ### screenshot
-![android-screenshot](https://raw.githubusercontent.com/wc1202/telegram-fk-lang/master/screenshots/android.png)
+![android-screenshot](http://i.imgur.com/pop6eRE.png)
 
 ## tdesktop (languages\_tdesktop_fk.strings)
 1. clone this repo or [download the zip](https://github.com/wc1202/telegram-fk-lang/archive/master.zip) and extract it
