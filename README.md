@@ -39,7 +39,7 @@ the telegram language pack you didn't know you needed
 # uninstallation
 ## ios
 1. start a convo with [@TGlanguagesbot](https://telegram.me/TGlanguagesbot)
-2. send a message to it with either `/langios LANG_CODE` where `LANG_CODE` is your language code (e.g. English = en)
+2. send a message to it with `/langios LANG_CODE` where `LANG_CODE` is your language code (e.g. English = en)
 4. download the file the bot sent then tap on it
 5. tap apply localization
 
