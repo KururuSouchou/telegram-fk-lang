@@ -21,7 +21,7 @@ the telegram language pack we all need
 6. choose "Fuck" from the list
 
 ### screenshot
-![android-screenshot](http://i.imgur.com/pop6eRE.png)
+![android-screenshot](https://raw.githubusercontent.com/wc1202/telegram-fk-lang/master/screenshots/android.png "photo cred: @tjhorner")
 
 ## tdesktop (languages\_tdesktop_fk.strings)
 1. clone this repo or [download the zip](https://github.com/wc1202/telegram-fk-lang/archive/master.zip) and extract it
@@ -37,11 +37,18 @@ the telegram language pack we all need
 1. idk i haven't even tested it, let me know if it works if you do happen to try and use it
 
 # uninstallation
+## ios
 1. start a convo with [@TGlanguagesbot](https://telegram.me/TGlanguagesbot)
-2. send a message to it with either `/langios LANG_CODE`, `/langdroid LANG_CODE`, `/langdesk LANG_CODE`, or `/langosx LANG_CODE` depending on what platform you're on and where LANG_CODE is your language code (e.g. English = en)
-3. follow the same steps ad you did to install telegram-fk-lang, just with the file you received from the bot
+2. send a message to it with either `/langios LANG_CODE` where `LANG_CODE` is your language code (e.g. English = en)
+4. download the file the bot sent then tap on it
+5. tap apply localization
 
-# REMOVAL FOR TDESKTOP
+## android
+1. tap the settings button in the top left corner
+2. tap the item in the list with the blue right-padded "Fuck"
+3. idk guess which one is your language lol
+
+## tdesktop
 1. click the first "Fuck" at the top of the screen (settings button)
 2. then click this button and select your language
 
