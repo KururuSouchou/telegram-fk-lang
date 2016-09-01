@@ -1,7 +1,7 @@
 # telegram-fk-lang
 the telegram language pack we all need
 
-# usage
+# installation
 ## ios (languages\_ios_fk.strings)
 1. clone this repo or [download the zip](https://github.com/wc1202/telegram-fk-lang/archive/master.zip) and extract it
 2. send `languages_ios_fk.strings` to yourself on telegram
